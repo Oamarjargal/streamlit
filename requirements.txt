@@ -2,3 +2,4 @@ geopandas
 rasterio
 numpy 
 folium
+streamlit_folium
