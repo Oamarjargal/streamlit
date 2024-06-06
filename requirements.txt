@@ -1,0 +1,4 @@
+geopandas
+rasterio
+numpy 
+folium
